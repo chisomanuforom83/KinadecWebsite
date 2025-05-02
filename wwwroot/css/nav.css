@@ -1,0 +1,339 @@
+﻿/* Basic Styles */
+/*.nav {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.container {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;*/ /* Set a max width for the container */
+    /*width: 100%;*/ /* Ensure it takes full width */
+    /*margin: 0 auto;*/ /* This centers the container horizontally */
+    /*padding: 0 20px;*/ /* Add some padding to avoid content touching the edges */
+/*}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    margin: 0 15px;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 8px 15px;
+}
+
+    .nav-link:hover {
+        background-color: #444;
+    }*/
+
+/* Hamburger Menu (hidden by default) */
+/*.hamburger {
+    display: none;
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+}*/
+
+/* Media Query for Mobile Devices */
+/*@media (max-width: 768px) {
+    .nav-list {
+        display: none;*/ /* Hide the nav links by default */
+        /*flex-direction: column;*/ /* Stack items vertically */
+        /*position: absolute;
+        top: 50px;*/ /* Adjust based on your header height */
+        /*right: 10px;
+        background-color: #333;
+        width: 200px;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .nav-item {
+        margin: 10px 0;
+    }
+
+    .hamburger {
+        display: block;*/ /* Show the hamburger icon on mobile */
+    /*}
+
+    .nav-list.active {
+        display: flex;*/ /* Show the nav links when active */
+    /*}
+}*/
+
+
+
+
+
+
+
+
+/* Base styling for the nav */
+/*.nav {
+    position: relative;*/ /* Ensures z-index works */
+    /*z-index: 10;*/ /* Keeps it on top of other content */
+    /*background-color: #333;*/ /* Background color for visibility */
+/*}
+
+.container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}*/
+
+/* Hamburger icon styling */
+/*.hamburger {
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    display: none;*/ /* Only show on mobile */
+/*}*/
+
+/* Initially hide nav-list on mobile */
+/*.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;*/ /* Horizontal on desktop */
+    /*justify-content: space-around;
+    z-index: 999;*/ /* High value to overlay on other content */
+/*}*/
+
+/* Styling for nav items */
+/*.nav-item {
+    margin: 0;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+}*/
+
+/* Mobile: Hide the nav list initially */
+/*@media (max-width: 768px) {
+    .hamburger {
+        display: block;*/ /* Show hamburger on mobile */
+    /*}
+
+    .nav-list {
+        display: none;*/ /* Hide nav list by default on mobile */
+        /*position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: #333;*/ /* Ensure background color */
+        /*flex-direction: column;
+        z-index: 9999;*/ /* Make sure nav is on top of other content */
+    /*}
+
+        .nav-list.active {
+            display: block;*/ /* Show nav list when it's active */
+        /*}
+}*/
+
+/* Optional: Add smooth transition for sliding */
+/*.nav-list {
+    transition: transform 0.3s ease-in-out;
+}*/
+
+
+
+/* Base styling for the nav */
+/*.nav {
+    position: relative;*/ /* Ensures z-index works */
+    /*background-color: #333;*/ /* Background color for visibility */
+/*}
+
+.container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}*/
+
+/* Hamburger icon styling */
+/*.hamburger {
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    display: block;*/ /* Always show */
+    /*z-index: 10000;*/ /* Ensure it stays on top of other content */
+    /*position: relative;*/ /* Important to make sure z-index works */
+/*}*/
+
+/* Navigation list styling */
+/*.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;*/ /* Horizontal on desktop */
+    /*justify-content: space-around;
+    z-index: 9999;*/ /* High value to overlay on other content */
+/*}*/
+
+/* Styling for nav items */
+/*.nav-item {
+    margin: 0;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+}*/
+
+/* Mobile: Hide the nav list initially */
+/*@media (max-width: 768px) {
+    .nav-list {
+        display: none;*/ /* Hide nav list by default on mobile */
+        /*position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: #333;*/ /* Ensure background color */
+        /*flex-direction: column;
+        z-index: 9999;*/ /* Make sure nav is on top of other content */
+    /*}
+
+        .nav-list.active {
+            display: block;*/ /* Show nav list when it's active */
+        /*}
+}*/
+
+
+
+
+
+/* Base styling for the nav */
+.nav {
+    position: relative; /* Ensures z-index works */
+    background-color: #333; /* Background color for visibility */
+}
+
+.container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+
+/* Hamburger icon styling */
+.hamburger {
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    display: none; /* Hide by default */
+    z-index: 10000; /* Ensure it stays on top of other content */
+    position: relative; /* Important to make sure z-index works */
+}
+
+/* Navigation list styling */
+.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Horizontal on desktop */
+    justify-content: space-around;
+    max-height:100%;
+    z-index: 9999; /* High value to overlay on other content */
+}
+
+
+/* Mobile: Adjust nav-item height */
+.nav-item {
+    margin: 0;
+    padding: 0; /* Remove extra padding */
+}
+
+/* Adjust nav-link height (for both desktop and mobile) */
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem; /* Adjust padding to reduce height */
+    font-size: 0.9rem; /* Optional: Adjust font size */
+    line-height: 1.5; /* Control line height to make it more compact */
+}
+
+
+
+
+
+/* Mobile: Compact the nav list even more */
+/*@media (max-width: 768px) {
+    .nav-item {
+        margin: 10px 0;*/ /* Reduce spacing between items */
+    /*}
+
+    .nav-link {
+        padding: 0.5rem;*/ /* Smaller padding on mobile */
+        /*font-size: 1.1rem;*/ /* Adjust font size for mobile */
+    /*}
+}*/
+
+
+
+
+
+/* Mobile: Hide the nav list initially */
+@media (max-width: 768px) {
+    .hamburger {
+        display: block; /* Show hamburger only on mobile */
+    }
+
+    .nav-item {
+        margin: 10px 0; /* Reduce spacing between items */
+    }
+
+    .nav-link {
+        padding: 0.5rem; /* Smaller padding on mobile */
+        font-size: 1.1rem; /* Adjust font size for mobile */
+    }
+
+    .nav-list {
+        display: none; /* Hide nav list by default on mobile */
+        position: fixed; /* Fixed at top of the screen */
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh; /* Full viewport height */
+        background-color: #333; /* Ensure background color */
+        flex-direction: column;
+        align-items: center; /* Center the links vertically */
+        z-index: 9999; /* Make sure nav is on top of other content */
+        transition: transform 0.3s ease-in-out;
+        transform: translateY(-100%); /* Hide nav initially */
+    }
+
+        .nav-list.active {
+            display: flex; /* Show nav list when it's active */
+            transform: translateY(0); /* Slide the menu down */
+        }
+
+    /* Adjusting nav item spacing for mobile */
+    .nav-item {
+        margin: 20px 0; /* More spacing between items */
+    }
+}
+
+/* Desktop Styling (default) */
+@media (min-width: 769px) {
+    .nav-list {
+        display: flex; /* Horizontal on desktop */
+        justify-content: space-around;
+    }
+}
