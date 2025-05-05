@@ -1,0 +1,21 @@
+﻿# Ignore Visual Studio temporary files, build results, and cache
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore packages
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore logs
+*.log
+
+# Ignore publish output
+publish/
