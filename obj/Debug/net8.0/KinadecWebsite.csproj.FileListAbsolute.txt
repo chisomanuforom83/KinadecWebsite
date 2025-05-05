@@ -131,3 +131,4 @@ C:\Users\user\source\repos\KinadecWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnal
 C:\Users\user\source\repos\KinadecWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\user\source\repos\KinadecWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\user\source\repos\KinadecWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Source\Repos\KinadecWebsite\obj\Debug\net8.0\KinadecWebsite.sourcelink.json

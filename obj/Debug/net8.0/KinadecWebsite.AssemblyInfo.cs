@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KinadecWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f102a3163cdda07afa817e642f2731bfa3c57211")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c03cf82a888461d6ff3210f413d5f7eecff6f0d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("KinadecWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KinadecWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
