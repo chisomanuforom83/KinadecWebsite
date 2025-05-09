@@ -18,7 +18,33 @@ namespace KinadecWebsite.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+
+		public IActionResult About()
+		{
+			return View(); // returns Views/Home/About.cshtml
+		}
+
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+        public IActionResult Mission()
+        {
+            return View();
+        }
+
+		public IActionResult Gallery()
+		{
+			return View();
+		}
+
+		public IActionResult Vision()
+		{
+			return View();
+		}
+
+		public IActionResult Privacy()
         {
             return View();
         }

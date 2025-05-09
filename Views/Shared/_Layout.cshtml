@@ -1,245 +1,263 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-@* <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - KinadecWebsite</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/KinadecWebsite.styles.css" asp-append-version="true" />
-</head> *@
-@* <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">KinadecWebsite</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+﻿
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - KinadecWebsite - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
-</body> *@
+<!DOCTYPE html>
 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     <title>Welcome to KINADEC ACADEMY</title>
+	<!-- meta-tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
+	<script>
+	    addEventListener("load", function () {
+	        setTimeout(hideURLbar, 0);
+	    }, false);
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional School - Excellence in Education</title>
-    <link rel="stylesheet" href="css/site1.css">
-    <link rel="stylesheet" href="css/nav.css">
-        <link rel="stylesheet" href="css/homeslider.css">
-
+	    function hideURLbar() {
+	        window.scrollTo(0, 1);
+	    }
+	</script>
+	<!-- //meta-tags -->
+	<link href="~/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- font-awesome -->
+	<link href="~/css/font-awesome.css" rel="stylesheet">
+	<!-- fonts -->
+	<link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+	    rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
 </head>
 <body>
+    <form id="form1" runat="server">
 
-    
-    
+       
 
-    <!-- Top Bar -->
-    <div class="top-bar">
-        <div class="container flex justify-between items-center">
-            <div class="flex items-center space-x-4 text-sm">
-                <div class="flex items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                    <span>07038847969</span>
-                </div>
-                <div class="flex items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-                    <span>kinadecacademy@gmail.com</span>
-                </div>
-            </div>
-            <div class="flex items-center space-x-3">
-                <a href="#" aria-label="Facebook">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
-                </a>
-                <a href="#" aria-label="Twitter">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg>
-                </a>
-                <a href="#" aria-label="Instagram">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
-                </a>
-            </div>
-        </div>
-    </div>
+   <!-- header -->
 
-    <!-- Header -->
-    <header class="header">
-        <div class="container flex justify-between items-center">
-            <div class="flex items-center">
-                <img src="images/kinadeclogoweb.jpg"  alt="School Logo" class="mr-4 logo">
-               @*  <div>
-                    <h1 class="text-2xl font-bold logo-text">Professional School</h1>
-                    <p class="text-sm text-gray-600">Excellence in Education</p>
-                </div> *@
-            </div>
-            <div class="hide-mobile flex items-center space-x-2">
-                <div class="search-box">
-                    <input type="text" placeholder="Search..." class="search-input">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="search-icon"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                </div>
-                <a href="#" class="btn btn-primary">Login</a>
-            </div>
-        </div>
-    </header>
-
-
-
-
-
-    <!-- Navigation -->
-<nav class="nav">
-    <div class="container">
-        <!-- Hamburger icon (will only show on mobile) -->
-        <div class="hamburger" id="hamburger">
-            &#9776; <!-- Hamburger Icon -->
-        </div>
-
-        <ul class="nav-list" id="nav-list">
-            <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">About Us</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">Curriculum</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">Parents</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">News & Events</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">Gallery</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">Contact Us</a></li>
-        </ul>
-    </div>
-</nav>
+	<div class="header">
+		<div class="content white">
+			<nav class="navbar navbar-default">
+				<div class="container">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="Home.aspx">
+							
+                                    <img  style=" max-height:60px; height:100%; margin-top:0px;"  src="~/images/kinadeclogoweb.jpg" />
+							
+						</a>
+					</div>
+					<!--/.navbar-header-->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<nav class="link-effect-2" id="link-effect-2" >
+							<ul class="nav navbar-nav">
+								<li class="active">
+									<a asp-controller="Home" asp-action="Index" class="effect-3">HOME</a>
+								</li>
+								<li>
+									<a asp-controller="Home" asp-action="About" class="effect-3">ABOUT US</a>
+								</li>
+								<li>
+									<a asp-controller="Home" asp-action="Mission" class="effect-3">MISSION</a>
+								</li>
+								<li>
+									<a asp-controller="Home" asp-action="Vision" class="effect-3">VISION</a>
+								</li>
+							
+								<li>
+									<a asp-controller="Home" asp-action="Gallery" class="effect-3">GALLERY</a>
+								</li>
+								<li>
+									<a asp-controller="Home" asp-action="Contact" class="effect-3">CONTACT</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+					<!--/.navbar-collapse-->
+					<!--/.navbar-->
+				</div>
+			</nav>
+		</div>
+	</div>
 
 
 
-    <div class="container">
-        <main role="main class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+
+
+		@* <div class="container">
+			<main role="main class="pb-3"> *@
+					@RenderBody()
+		@* 	</main>
+		</div> *@
 
 
 
 
 
 
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="container">
-            <div class="grid footer-grid grid-cols-4 gap-8 mb-8">
-                <!-- Contact Info -->
-                <div>
-                    <h3 class="footer-title">Contact Us</h3>
-                    <ul class="space-y-2">
-                        <li class="flex items-start">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2" style="margin-top: 4px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                            <span>123 School Lane, Townsville, County, AB12 3CD</span>
-                        </li>
-                        <li class="flex items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                            <span>01234 567890</span>
-                        </li>
-                        <li class="flex items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-                            <span>info@schoolname.edu</span>
-                        </li>
-                    </ul>
-                </div>
 
-                <!-- Quick Links -->
-                <div>
-                    <h3 class="footer-title">Quick Links</h3>
-                    <ul class="space-y-2">
-                        <li><a href="#" class="footer-link">Home</a></li>
-                        <li><a href="#" class="footer-link">About Us</a></li>
-                        <li><a href="#" class="footer-link">Curriculum</a></li>
-                        <li><a href="#" class="footer-link">Admissions</a></li>
-                        <li><a href="#" class="footer-link">News</a></li>
-                        <li><a href="#" class="footer-link">Contact</a></li>
-                    </ul>
-                </div>
+	
+	
+	<!-- testimonials -->
 
-                <!-- Information -->
-                <div>
-                    <h3 class="footer-title">Information</h3>
-                    <ul class="space-y-2">
-                        <li><a href="#" class="footer-link">Term Dates</a></li>
-                        <li><a href="#" class="footer-link">School Day</a></li>
-                        <li><a href="#" class="footer-link">Uniform</a></li>
-                        <li><a href="#" class="footer-link">Policies</a></li>
-                        <li><a href="#" class="footer-link">Ofsted</a></li>
-                        <li><a href="#" class="footer-link">Vacancies</a></li>
-                    </ul>
-                </div>
+	<!-- //testimonials -->
+	<!-- footer -->
+	<div class="mkl_footer">
+		<div class="sub-footer">
+			<div class="container">
+				<div class="mkls_footer_grid">
+					<div class="col-xs-4 mkls_footer_grid_left">
+						<h4>Location:</h4>
+						<p>PLOT 498 OKPORO NGBUKWU FARMLAND OBOGORO OBIO/AKPOR LOCAL GOVERNMENT AREA, PORTHARCOURT, RIVERS STATE.</p>
+					</div>
+					<div class="col-xs-4 mkls_footer_grid_left">
+						<h4>Call or Mail Us:</h4>
+						<p>
+							<span>Phone : </span>07038847969</p>
+						<p>
+							<span>Email : </span>
+							<a href="mailto:kinadecacademy@gmail.com">kinadecacademy@gmail.com</a>
+						</p>
+					</div>
+					<div class="col-xs-4 mkls_footer_grid_left">
+						<h4>Opening Hours:</h4>
+						<p>Working days : 7am-4pm</p>
+						<p>Sunday
+							<span>(closed)</span>
+						</p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="botttom-nav-allah">
+					<ul>
+						<li>
+							<a href="Home.aspx">Home</a>
+						</li>
+						<li>
+							<a href="About.aspx">About</a>
+						</li>
+						<li>
+							<a href="Mission.aspx">Mission</a>
+						</li>
+						<li>
+							<a href="Vision.aspx">Vision</a>
+						</li>
+						<li>
+							<a href="Gallery.aspx">Gallery</a>
+						</li>
+                        <li>
+							<a href="Contact.aspx">Contact</a>
+						</li>
+					</ul>
+				</div>
+				<!-- footer-button-info -->
+				<div class="footer-middle-thanks">
+					<h2>Thanks For Visiting!</h2>
+				</div>
+				<!-- footer-button-info -->
+			</div>
+		</div>
+		<div class="footer-copy-right">
+			<div class="container">
+				<div class="allah-copy">
+					<center><p>© 2025 Kinadec Academy, Portharcourt. All rights reserved
+					
+					</p> </center>
+				</div>
+				<div class="footercopy-social">
+					<ul>
+						<li>
+							<a href="#">
+								<span class="fa fa-facebook"></span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="fa fa-twitter"></span>
+							</a>
+						</li>
+					
+					</ul>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<!--/footer -->
 
-                <!-- Opening Hours -->
-                <div>
-                    <h3 class="footer-title">Opening Hours</h3>
-                    <ul class="space-y-2">
-                        <li class="flex items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                            <span>Monday - Friday: 8:30am - 3:30pm</span>
-                        </li>
-                        <li class="mt-4">
-                            <h4 class="font-semibold mb-2">Follow Us</h4>
-                            <div class="flex space-x-4">
-                                <a href="#" aria-label="Facebook" class="social-icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
-                                </a>
-                                <a href="#" aria-label="Twitter" class="social-icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg>
-                                </a>
-                                <a href="#" aria-label="Instagram" class="social-icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
-                                </a>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
 
-            <div class="footer-border flex flex-col-mobile md:flex-row justify-between items-center">
-                <p class="text-sm">© 2025 Kinadec Academy. All rights reserved.</p>
-                <div class="flex space-x-4 mt-4-mobile">
-                    <a href="#" class="text-sm footer-link">Privacy Policy</a>
-                    <a href="#" class="text-sm footer-link">Terms of Use</a>
-                    <a href="#" class="text-sm footer-link">Cookie Policy</a>
-                </div>
-            </div>
-        </div>
-    </footer>
 
-     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
 
-   </body>
 
-  
+	<!-- js files -->
+	<!-- js -->
+	<script src="js/jquery-2.1.4.min.js"></script>
+	<!-- bootstrap -->
+	<script src="js/bootstrap.js"></script>
+	<!-- stats numscroller-js-file -->
+	<script src="js/numscroller-1.0.js"></script>
+	<!-- //stats numscroller-js-file -->
 
+	<!-- Flexslider-js for-testimonials -->
+	<script>
+	    $(window).load(function () {
+	        $("#flexiselDemo1").flexisel({
+	            visibleItems: 1,
+	            animationSpeed: 1000,
+	            autoPlay: false,
+	            autoPlaySpeed: 3000,
+	            pauseOnHover: true,
+	            enableResponsiveBreakpoints: true,
+	            responsiveBreakpoints: {
+	                portrait: {
+	                    changePoint: 480,
+	                    visibleItems: 1
+	                },
+	                landscape: {
+	                    changePoint: 640,
+	                    visibleItems: 1
+	                },
+	                tablet: {
+	                    changePoint: 768,
+	                    visibleItems: 1
+	                }
+	            }
+	        });
+
+	    });
+	</script>
+	<script src="js/jquery.flexisel.js"></script>
+	<!-- //Flexslider-js for-testimonials -->
+	<!-- smooth scrolling -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<script src="js/move-top.js"></script>
+	<script src="js/easing.js"></script>
+	<!-- here stars scrolling icon -->
+	<script>
+	    $(document).ready(function () {
+	        /*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+
+	        $().UItoTop({
+	            easingType: 'easeOutQuart'
+	        });
+
+	    });
+	</script>
+	<!-- //here ends scrolling icon -->
+	<!-- smooth scrolling -->
+	<!-- //js-files -->
+    </form>
+</body>
 </html>
