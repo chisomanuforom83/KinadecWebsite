@@ -1,671 +1,675 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KinadecWebsite.bundle.scp.css",
-      "PackagePath": "staticwebassets\\KinadecWebsite.bundle.scp.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/obj/Debug/net8.0/scopedcss/projectbundle/KinadecWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets/KinadecWebsite.27x7yex1wg.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\blast.min.css",
-      "PackagePath": "staticwebassets\\css\\blast.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/blast.min.css",
+      "PackagePath": "staticwebassets/css/blast.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\font-awesome.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/font-awesome.css",
+      "PackagePath": "staticwebassets/css/font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\fontawesome-all.min.css",
-      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/css/fontawesome-all.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\jquery-ui.css",
-      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/jquery-ui.css",
+      "PackagePath": "staticwebassets/css/jquery-ui.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\simplelightbox.min.css",
-      "PackagePath": "staticwebassets\\css\\simplelightbox.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/simplelightbox.min.css",
+      "PackagePath": "staticwebassets/css/simplelightbox.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\css\\style10.css",
-      "PackagePath": "staticwebassets\\css\\style10.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/css/style10.css",
+      "PackagePath": "staticwebassets/css/style10.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\1.jpg",
-      "PackagePath": "staticwebassets\\images\\1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/1.jpg",
+      "PackagePath": "staticwebassets/images/1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\2.jpg",
-      "PackagePath": "staticwebassets\\images\\2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/2.jpg",
+      "PackagePath": "staticwebassets/images/2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\3.jpg",
-      "PackagePath": "staticwebassets\\images\\3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/3.jpg",
+      "PackagePath": "staticwebassets/images/3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\4.jpg",
-      "PackagePath": "staticwebassets\\images\\4.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/4.jpg",
+      "PackagePath": "staticwebassets/images/4.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\Thumbs.db",
-      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/Thumbs.db",
+      "PackagePath": "staticwebassets/images/Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\a1.jpg",
-      "PackagePath": "staticwebassets\\images\\a1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/a1.jpg",
+      "PackagePath": "staticwebassets/images/a1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\ab1.jpg",
-      "PackagePath": "staticwebassets\\images\\ab1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/ab1.jpg",
+      "PackagePath": "staticwebassets/images/ab1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\ab2.jpg",
-      "PackagePath": "staticwebassets\\images\\ab2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/ab2.jpg",
+      "PackagePath": "staticwebassets/images/ab2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\ab3.jpg",
-      "PackagePath": "staticwebassets\\images\\ab3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/ab3.jpg",
+      "PackagePath": "staticwebassets/images/ab3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\arrow.png",
-      "PackagePath": "staticwebassets\\images\\arrow.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/arrow.png",
+      "PackagePath": "staticwebassets/images/arrow.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\b1.jpg",
-      "PackagePath": "staticwebassets\\images\\b1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/b1.jpg",
+      "PackagePath": "staticwebassets/images/b1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\b2.jpg",
-      "PackagePath": "staticwebassets\\images\\b2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/b2.jpg",
+      "PackagePath": "staticwebassets/images/b2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\b3.jpg",
-      "PackagePath": "staticwebassets\\images\\b3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/b3.jpg",
+      "PackagePath": "staticwebassets/images/b3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\banner1.jpg",
-      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/banner1.jpg",
+      "PackagePath": "staticwebassets/images/banner1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\banner2.jpg",
-      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/banner2.jpg",
+      "PackagePath": "staticwebassets/images/banner2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\banner3.jpg",
-      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/banner3.jpg",
+      "PackagePath": "staticwebassets/images/banner3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\bb1.jpg",
-      "PackagePath": "staticwebassets\\images\\bb1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/bb1.jpg",
+      "PackagePath": "staticwebassets/images/bb1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\bb2.jpg",
-      "PackagePath": "staticwebassets\\images\\bb2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/bb2.jpg",
+      "PackagePath": "staticwebassets/images/bb2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\bb3.jpg",
-      "PackagePath": "staticwebassets\\images\\bb3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/bb3.jpg",
+      "PackagePath": "staticwebassets/images/bb3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\bg.jpg",
-      "PackagePath": "staticwebassets\\images\\bg.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/bg.jpg",
+      "PackagePath": "staticwebassets/images/bg.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\bg4.jpg",
-      "PackagePath": "staticwebassets\\images\\bg4.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/bg4.jpg",
+      "PackagePath": "staticwebassets/images/bg4.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\bg5.png",
-      "PackagePath": "staticwebassets\\images\\bg5.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/bg5.png",
+      "PackagePath": "staticwebassets/images/bg5.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\bg7.jpg",
-      "PackagePath": "staticwebassets\\images\\bg7.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/bg7.jpg",
+      "PackagePath": "staticwebassets/images/bg7.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\c-arrows.png",
-      "PackagePath": "staticwebassets\\images\\c-arrows.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/c-arrows.png",
+      "PackagePath": "staticwebassets/images/c-arrows.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\c1.jpg",
-      "PackagePath": "staticwebassets\\images\\c1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/c1.jpg",
+      "PackagePath": "staticwebassets/images/c1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\c2.jpg",
-      "PackagePath": "staticwebassets\\images\\c2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/c2.jpg",
+      "PackagePath": "staticwebassets/images/c2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\c3.jpg",
-      "PackagePath": "staticwebassets\\images\\c3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/c3.jpg",
+      "PackagePath": "staticwebassets/images/c3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\c5.jpg",
-      "PackagePath": "staticwebassets\\images\\c5.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/c5.jpg",
+      "PackagePath": "staticwebassets/images/c5.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\c7.jpg",
-      "PackagePath": "staticwebassets\\images\\c7.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/c7.jpg",
+      "PackagePath": "staticwebassets/images/c7.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\cc1.jpg",
-      "PackagePath": "staticwebassets\\images\\cc1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/cc1.jpg",
+      "PackagePath": "staticwebassets/images/cc1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\close.png",
-      "PackagePath": "staticwebassets\\images\\close.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/close.png",
+      "PackagePath": "staticwebassets/images/close.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\e1.jpg",
-      "PackagePath": "staticwebassets\\images\\e1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/e1.jpg",
+      "PackagePath": "staticwebassets/images/e1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\f1.jpg",
-      "PackagePath": "staticwebassets\\images\\f1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/f1.jpg",
+      "PackagePath": "staticwebassets/images/f1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\f2.jpg",
-      "PackagePath": "staticwebassets\\images\\f2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/f2.jpg",
+      "PackagePath": "staticwebassets/images/f2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\f3.jpg",
-      "PackagePath": "staticwebassets\\images\\f3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/f3.jpg",
+      "PackagePath": "staticwebassets/images/f3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g1.jpg",
-      "PackagePath": "staticwebassets\\images\\g1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g1.jpg",
+      "PackagePath": "staticwebassets/images/g1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g2.jpg",
-      "PackagePath": "staticwebassets\\images\\g2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g2.jpg",
+      "PackagePath": "staticwebassets/images/g2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g3.jpg",
-      "PackagePath": "staticwebassets\\images\\g3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g3.jpg",
+      "PackagePath": "staticwebassets/images/g3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g4.jpg",
-      "PackagePath": "staticwebassets\\images\\g4.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g4.jpg",
+      "PackagePath": "staticwebassets/images/g4.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g5.jpg",
-      "PackagePath": "staticwebassets\\images\\g5.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g5.jpg",
+      "PackagePath": "staticwebassets/images/g5.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g6.jpg",
-      "PackagePath": "staticwebassets\\images\\g6.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g6.jpg",
+      "PackagePath": "staticwebassets/images/g6.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g7.jpg",
-      "PackagePath": "staticwebassets\\images\\g7.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g7.jpg",
+      "PackagePath": "staticwebassets/images/g7.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g8.jpg",
-      "PackagePath": "staticwebassets\\images\\g8.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g8.jpg",
+      "PackagePath": "staticwebassets/images/g8.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\g9.jpg",
-      "PackagePath": "staticwebassets\\images\\g9.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/g9.jpg",
+      "PackagePath": "staticwebassets/images/g9.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\graduate.png",
-      "PackagePath": "staticwebassets\\images\\graduate.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/graduate.png",
+      "PackagePath": "staticwebassets/images/graduate.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\img-sprite.png",
-      "PackagePath": "staticwebassets\\images\\img-sprite.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/img-sprite.png",
+      "PackagePath": "staticwebassets/images/img-sprite.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\kinadeclogo.jpeg",
-      "PackagePath": "staticwebassets\\images\\kinadeclogo.jpeg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/kinadeclogo.jpeg",
+      "PackagePath": "staticwebassets/images/kinadeclogo.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\kinadeclogoweb.jpg",
-      "PackagePath": "staticwebassets\\images\\kinadeclogoweb.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/kinadeclogoweb.jpg",
+      "PackagePath": "staticwebassets/images/kinadeclogoweb.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\left-arrow.png",
-      "PackagePath": "staticwebassets\\images\\left-arrow.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/left-arrow.png",
+      "PackagePath": "staticwebassets/images/left-arrow.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\left.png",
-      "PackagePath": "staticwebassets\\images\\left.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/left.png",
+      "PackagePath": "staticwebassets/images/left.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\right-arrow.png",
-      "PackagePath": "staticwebassets\\images\\right-arrow.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/right-arrow.png",
+      "PackagePath": "staticwebassets/images/right-arrow.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\right.png",
-      "PackagePath": "staticwebassets\\images\\right.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/right.png",
+      "PackagePath": "staticwebassets/images/right.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\s1.jpg",
-      "PackagePath": "staticwebassets\\images\\s1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/s1.jpg",
+      "PackagePath": "staticwebassets/images/s1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\s2.jpg",
-      "PackagePath": "staticwebassets\\images\\s2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/s2.jpg",
+      "PackagePath": "staticwebassets/images/s2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\s3.jpg",
-      "PackagePath": "staticwebassets\\images\\s3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/s3.jpg",
+      "PackagePath": "staticwebassets/images/s3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\s4.jpg",
-      "PackagePath": "staticwebassets\\images\\s4.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/s4.jpg",
+      "PackagePath": "staticwebassets/images/s4.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\down.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\down.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/down.jpg",
+      "PackagePath": "staticwebassets/images/school/down.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\edugeelogowhitemain.png",
-      "PackagePath": "staticwebassets\\images\\school\\edugeelogowhitemain.png"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/edugeelogowhitemain.png",
+      "PackagePath": "staticwebassets/images/school/edugeelogowhitemain.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\enrol1.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\enrol1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/enrol1.jpg",
+      "PackagePath": "staticwebassets/images/school/enrol1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\enrol2.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\enrol2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/enrol2.jpg",
+      "PackagePath": "staticwebassets/images/school/enrol2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\enrol3.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\enrol3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/enrol3.jpg",
+      "PackagePath": "staticwebassets/images/school/enrol3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\girl1.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\girl1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/girl1.jpg",
+      "PackagePath": "staticwebassets/images/school/girl1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\pic11.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\pic11.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/pic11.jpg",
+      "PackagePath": "staticwebassets/images/school/pic11.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\slide1.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\slide1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/slide1.jpg",
+      "PackagePath": "staticwebassets/images/school/slide1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\slide2.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\slide2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/slide2.jpg",
+      "PackagePath": "staticwebassets/images/school/slide2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\slide3.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\slide3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/slide3.jpg",
+      "PackagePath": "staticwebassets/images/school/slide3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\school\\slide4.jpg",
-      "PackagePath": "staticwebassets\\images\\school\\slide4.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/school/slide4.jpg",
+      "PackagePath": "staticwebassets/images/school/slide4.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\slide1.jpg",
-      "PackagePath": "staticwebassets\\images\\slide1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/slide1.jpg",
+      "PackagePath": "staticwebassets/images/slide1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\slide2.jpg",
-      "PackagePath": "staticwebassets\\images\\slide2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/slide2.jpg",
+      "PackagePath": "staticwebassets/images/slide2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\slide3.jpg",
-      "PackagePath": "staticwebassets\\images\\slide3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/slide3.jpg",
+      "PackagePath": "staticwebassets/images/slide3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\slide4.jpg",
-      "PackagePath": "staticwebassets\\images\\slide4.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/slide4.jpg",
+      "PackagePath": "staticwebassets/images/slide4.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\t1.jpg",
-      "PackagePath": "staticwebassets\\images\\t1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/t1.jpg",
+      "PackagePath": "staticwebassets/images/t1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\t2.jpg",
-      "PackagePath": "staticwebassets\\images\\t2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/t2.jpg",
+      "PackagePath": "staticwebassets/images/t2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\t3.jpg",
-      "PackagePath": "staticwebassets\\images\\t3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/t3.jpg",
+      "PackagePath": "staticwebassets/images/t3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\t4.jpg",
-      "PackagePath": "staticwebassets\\images\\t4.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/t4.jpg",
+      "PackagePath": "staticwebassets/images/t4.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\te1.jpg",
-      "PackagePath": "staticwebassets\\images\\te1.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/te1.jpg",
+      "PackagePath": "staticwebassets/images/te1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\te2.jpg",
-      "PackagePath": "staticwebassets\\images\\te2.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/te2.jpg",
+      "PackagePath": "staticwebassets/images/te2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\images\\te3.jpg",
-      "PackagePath": "staticwebassets\\images\\te3.jpg"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/images/te3.jpg",
+      "PackagePath": "staticwebassets/images/te3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js1\\site.js",
-      "PackagePath": "staticwebassets\\js1\\site.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/SmoothScroll.min.js",
+      "PackagePath": "staticwebassets/js/SmoothScroll.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\SmoothScroll.min.js",
-      "PackagePath": "staticwebassets\\js\\SmoothScroll.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/blast.min.js",
+      "PackagePath": "staticwebassets/js/blast.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\blast.min.js",
-      "PackagePath": "staticwebassets\\js\\blast.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/easing.js",
+      "PackagePath": "staticwebassets/js/easing.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\easing.js",
-      "PackagePath": "staticwebassets\\js\\easing.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/easy-responsive-tabs.js",
+      "PackagePath": "staticwebassets/js/easy-responsive-tabs.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\easy-responsive-tabs.js",
-      "PackagePath": "staticwebassets\\js\\easy-responsive-tabs.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets/js/jquery-2.1.4.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\jquery-2.1.4.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-2.1.4.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets/js/jquery-2.2.3.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\jquery-2.2.3.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-2.2.3.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/jquery-ui.js",
+      "PackagePath": "staticwebassets/js/jquery-ui.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\jquery-ui.js",
-      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/jquery.countup.js",
+      "PackagePath": "staticwebassets/js/jquery.countup.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\jquery.countup.js",
-      "PackagePath": "staticwebassets\\js\\jquery.countup.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/jquery.flexisel.js",
+      "PackagePath": "staticwebassets/js/jquery.flexisel.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\jquery.flexisel.js",
-      "PackagePath": "staticwebassets\\js\\jquery.flexisel.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets/js/jquery.waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\jquery.waypoints.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/move-top.js",
+      "PackagePath": "staticwebassets/js/move-top.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\move-top.js",
-      "PackagePath": "staticwebassets\\js\\move-top.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/numscroller-1.0.js",
+      "PackagePath": "staticwebassets/js/numscroller-1.0.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\numscroller-1.0.js",
-      "PackagePath": "staticwebassets\\js\\numscroller-1.0.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/responsiveslides.min.js",
+      "PackagePath": "staticwebassets/js/responsiveslides.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\responsiveslides.min.js",
-      "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js/simple-lightbox.js",
+      "PackagePath": "staticwebassets/js/simple-lightbox.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\js\\simple-lightbox.js",
-      "PackagePath": "staticwebassets\\js\\simple-lightbox.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/js1/site.js",
+      "PackagePath": "staticwebassets/js1/site.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\KinadecWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/Users/macbookpro/RiderProjects/KinadecWebsite/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KinadecWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.KinadecWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.KinadecWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KinadecWebsite.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.KinadecWebsite.props",
       "PackagePath": "build\\KinadecWebsite.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KinadecWebsite.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.KinadecWebsite.props",
       "PackagePath": "buildMultiTargeting\\KinadecWebsite.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KinadecWebsite.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.KinadecWebsite.props",
       "PackagePath": "buildTransitive\\KinadecWebsite.props"
     }
   ],

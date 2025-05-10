@@ -2,32 +2,44 @@
 @{
     ViewData["Title"] = "Gallery";
 }
+<br/>
 
-<h2>Image Gallery</h2>
+<div style="margin-left: 10%; margin-right: 10%;">
+    
+    <center><label style="font-size: 15px; font-weight: bold;">Image Gallery</label></center>
+    <br/>
 
-@if (TempData["Message"] != null)
+
+    @if (TempData["Message"] != null)
 {
     <div class="alert alert-success">@TempData["Message"]</div>
 }
 
-<div class="row">
+  
+    
+    <div class="row" >
     @foreach (var image in Model)
     {
         <div class="col-md-4 mb-4">
-            <div class="card shadow-sm">
+            <div class="card shadow-sm" style="margin-left: 5px; margin-right: 5px;">
                 <img src="@image.Url" class="card-img-top" style="height: 250px; object-fit: cover;" />
                 <div class="card-body">
-                    <p><strong>Format:</strong> @image.Format</p>
-                    <p><strong>Uploaded:</strong> @image.CreatedAt.ToString("g")</p>
+                    @* <p><strong>Format:</strong> @image.Format</p> *@
+                    @* <p><strong>Uploaded:</strong> @image.CreatedAt.ToString("g")</p> *@
                     @if (!string.IsNullOrWhiteSpace(image.Name))
                     {
                         <p><strong>Name:</strong> @image.Name</p>
                     }
-                    <a href="/upload/image/@image.Id" class="btn btn-sm btn-info">View Details</a>
-                    <a href="/gallery/edit/@image.Id" class="btn btn-sm btn-warning">Edit</a>
-                    <a href="/gallery/delete/@image.Id" class="btn btn-sm btn-danger" onclick="return confirm('Delete this image?');">Delete</a>
+                    @* <a href="/upload/image/@image.Id" class="btn btn-sm btn-info">View Details</a> *@
+                    @* <a href="/gallery/edit/@image.Id" class="btn btn-sm btn-warning">Edit</a> *@
+                    @* <a href="/gallery/delete/@image.Id" class="btn btn-sm btn-danger" onclick="return confirm('Delete this image?');">Delete</a> *@
                 </div>
             </div>
+            <br/>
+            <br/>
         </div>
     }
+</div>
+
+    
 </div>

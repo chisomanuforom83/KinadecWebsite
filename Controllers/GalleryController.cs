@@ -21,6 +21,17 @@ namespace KinadecWebsite.Controllers
 
 			return View(images);
 		}
+		
+		
+		
+		public async Task<IActionResult> IndexAdmin()
+		{
+			var images = await _context.ImageMetadata
+				.OrderByDescending(i => i.CreatedAt)
+				.ToListAsync();
+
+			return View(images);
+		}
 
 		[HttpGet]
 		public async Task<IActionResult> Edit(int id)
