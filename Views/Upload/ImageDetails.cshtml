@@ -1,0 +1,17 @@
+﻿@model KinadecWebsite.Data.ImageMetadata
+
+<h2>Image Details</h2>
+
+<div>
+    <img src="@Model.Url" alt="Uploaded Image" class="img-thumbnail" style="max-width: 500px;" />
+    <ul class="mt-3">
+        <li><strong>Public ID:</strong> @Model.PublicId</li>
+        @if (!string.IsNullOrWhiteSpace(Model.Name))
+        {
+            <li><strong>Name:</strong> @Model.Name</li>
+        }
+        <li><strong>Format:</strong> @Model.Format</li>
+        <li><strong>Resource Type:</strong> @Model.ResourceType</li>
+        <li><strong>Uploaded At:</strong> @Model.CreatedAt</li>
+    </ul>
+</div>

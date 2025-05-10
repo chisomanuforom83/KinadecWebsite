@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+
+@{
+    ViewData["Title"] = "Upload Image";
+}
+
+<h2>Upload Image</h2>
+
+@* <form asp-controller="Upload" asp-action="UploadImage" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label>Select an image</label>
+        <input type="file" name="file" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form> *@
+
+
+<form asp-action="UploadImage" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" class="form-control" />
+    <br />
+    <input type="text" name="name" placeholder="Enter image name" class="form-control" />
+    <br />
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form>
+
+
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-success mt-3">@ViewBag.Message</div>
+}
+
+@if (ViewBag.ImageUrl != null)
+{
+    <div class="mt-3">
+        <img src="@ViewBag.ImageUrl" alt="Uploaded Image" class="img-thumbnail" style="max-width: 400px;" />
+    </div>
+}
+
+
+
